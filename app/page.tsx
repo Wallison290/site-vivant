@@ -182,7 +182,6 @@ export default function Home() {
             width="1155"
             height="1362"
           />
-          <div className="hero-overlay" />
           <div className="hero-pattern" aria-hidden="true" />
 
           <div className="container hero-content">
@@ -227,8 +226,6 @@ export default function Home() {
               </div>
             </div>
           </div>
-
-          <SectionWave />
         </section>
 
         <section className="section treatments" id="tratamentos">
